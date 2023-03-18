@@ -110,12 +110,3 @@ public class CustomerServiceImpl implements CustomerService {
 
 	}
 }
-Footer
-		© 2023 GitHub, Inc.
-		Footer navigation
-		Terms
-		Privacy
-		Security
-		Status
-		Docs
-		Contact GitHub

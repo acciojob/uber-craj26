@@ -1,4 +1,4 @@
-ackage com.driver.controllers;
+package com.driver.controllers;
 
 import com.driver.model.Admin;
 import com.driver.model.Customer;
